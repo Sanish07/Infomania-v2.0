@@ -1,3 +1,7 @@
+html 
+{
+  scroll-behavior: smooth;
+}
 
 body, h1, .nav-link, .fea-head, .pri-head, .cta-head /*Montserrat Font selectors */
 {
